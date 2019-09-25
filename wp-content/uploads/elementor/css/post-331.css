@@ -1,0 +1,59 @@
+.elementor-331 .elementor-element.elementor-element-d899619 > .elementor-element-populated{padding:30px 15px 30px 30px;}.elementor-331 .elementor-element.elementor-element-86df34b .elementor-flip-box__front{background-image:url("http://genesis.vsg360.com/wp-content/uploads/2019/09/Regen-Medicine.jpg");background-position:center center;background-repeat:no-repeat;background-size:cover;}.elementor-331 .elementor-element.elementor-element-86df34b .elementor-flip-box__back{background-image:url("http://genesis.vsg360.com/wp-content/uploads/2019/09/Regen-Medicine.jpg");background-position:center center;background-repeat:no-repeat;background-size:cover;}.elementor-331 .elementor-element.elementor-element-86df34b .elementor-flip-box__back .elementor-flip-box__layer__overlay{background-color:rgba(214,187,169,0.75);text-align:center;}.elementor-331 .elementor-element.elementor-element-86df34b .elementor-flip-box__front .elementor-flip-box__layer__overlay{text-align:center;justify-content:center;}.elementor-331 .elementor-element.elementor-element-86df34b .elementor-flip-box__button{margin-center:0;color:#403415;background-color:#d6bba9;border-color:#403415;border-radius:100px;}.elementor-331 .elementor-element.elementor-element-6ca353f > .elementor-element-populated{padding:30px 30px 30px 15px;}.elementor-331 .elementor-element.elementor-element-a16b30d .elementor-flip-box__front{background-image:url("http://genesis.vsg360.com/wp-content/uploads/2019/09/Interventional-Pain.jpg");background-position:center center;background-repeat:no-repeat;background-size:cover;}.elementor-331 .elementor-element.elementor-element-a16b30d .elementor-flip-box__back{background-image:url("http://genesis.vsg360.com/wp-content/uploads/2019/09/Interventional-Pain.jpg");background-position:center center;background-repeat:no-repeat;background-size:cover;}.elementor-331 .elementor-element.elementor-element-a16b30d .elementor-flip-box__back .elementor-flip-box__layer__overlay{background-color:rgba(110,122,118,0.59);text-align:center;}.elementor-331 .elementor-element.elementor-element-a16b30d .elementor-flip-box__front .elementor-flip-box__layer__overlay{text-align:center;justify-content:center;}.elementor-331 .elementor-element.elementor-element-a16b30d .elementor-flip-box__button{margin-center:0;color:#e3d9cf;background-color:#6e7a76;border-color:#e3d9cf;border-radius:100px;}/* Start custom CSS for flip-box, class: .elementor-element-86df34b */.elementor-331 .elementor-element.elementor-element-86df34b .elementor-flip-box__layer__inner {
+    display:flex;
+    flex-direction: column-reverse;
+}
+.elementor-331 .elementor-element.elementor-element-86df34b .elementor-flip-box__button {
+margin-bottom:30px;
+}
+.elementor-331 .elementor-element.elementor-element-86df34b ul {
+    display:inline-block;
+    line-height:2.5em;
+    text-align:left;
+    color: #403415;
+}
+.elementor-331 .elementor-element.elementor-element-86df34b li {
+    font-size:20px;
+}
+.elementor-331 .elementor-element.elementor-element-86df34b li a {
+    text-decoration:underline;
+    color:#403415;
+}
+.elementor-331 .elementor-element.elementor-element-86df34b .elementor-flip-box {
+    height:100%;
+    width:100%;
+    max-width:100%;
+}
+.elementor-331 .elementor-element.elementor-element-86df34b .elementor-flip-box:after {
+  content: "";
+  display: block;
+  padding-bottom: 80%;
+}/* End custom CSS */
+/* Start custom CSS for flip-box, class: .elementor-element-a16b30d */.elementor-331 .elementor-element.elementor-element-a16b30d .elementor-flip-box__layer__inner {
+    display:flex;
+    flex-direction: column-reverse;
+}
+.elementor-331 .elementor-element.elementor-element-a16b30d .elementor-flip-box__button {
+margin-bottom:30px;
+}
+.elementor-331 .elementor-element.elementor-element-a16b30d ul {
+    display:inline-block;
+    line-height:2.5em;
+    text-align:left;
+}
+.elementor-331 .elementor-element.elementor-element-a16b30d li {
+    font-size:20px;
+}
+.elementor-331 .elementor-element.elementor-element-a16b30d li a {
+    text-decoration:underline;
+    color:#fff;
+}
+.elementor-331 .elementor-element.elementor-element-a16b30d .elementor-flip-box {
+    height:100%;
+    width:100%;
+    max-width:100%;
+}
+.elementor-331 .elementor-element.elementor-element-a16b30d .elementor-flip-box:after {
+  content: "";
+  display: block;
+  padding-bottom: 80%;
+}/* End custom CSS */
