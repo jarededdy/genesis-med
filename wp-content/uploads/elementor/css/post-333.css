@@ -12,12 +12,5 @@
 }
 .elementor-333 .elementor-element.elementor-element-58011ab2 .elementor-nav-menu--dropdown {
     padding:0 15px;
+    z-index:99;
 }/* End custom CSS */
-/* Start Custom Fonts CSS */@font-face {
-	font-family: 'Transat';
-	font-style: normal;
-	font-weight: 700;
-	src: url('http://genesis.test:8888/wp-content/uploads/2019/09/TransatBold.woff2') format('woff2'),
-		url('http://genesis.test:8888/wp-content/uploads/2019/09/TransatBold.woff') format('woff');
-}
-/* End Custom Fonts CSS */
