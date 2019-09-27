@@ -14,3 +14,12 @@
     padding:0 15px;
     z-index:99;
 }/* End custom CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Transat';
+	font-style: normal;
+	font-weight: 700;
+	font-display: auto
+	src: url('http://genesis.vsg360.com/wp-content/uploads/2019/09/TransatBold-1.woff2') format('woff2'),
+		url('http://genesis.vsg360.com/wp-content/uploads/2019/09/TransatBold-1.woff') format('woff');
+}
+/* End Custom Fonts CSS */
